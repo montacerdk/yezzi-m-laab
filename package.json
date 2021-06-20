@@ -1,7 +1,8 @@
 {
-  "name": "simple-todo-app-ts",
-  "version": "0.1.0",
-  "private": true,
+  "name": "yezzi-m-laab-react",
+  "version": "1.0.0",
+  "description": "A React app in which I am practicing Frontend development and some React features.",
+  "author": "Montacer Dkhilali - montacer.dkhilali@gmail.com",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
